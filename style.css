@@ -1,0 +1,32 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+#start {
+  background-color: rgb(83, 228, 228);
+  border-radius: 30px;
+  height: 2em;
+  width: 5em;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px black
+}
+#start:active {
+  background-color: rgba(83, 228, 180, 0.89);
+}
+
+#reset {
+  background-color: rgb(243, 240, 87);
+  border-radius: 30px;
+  height: 2em;
+  width: 5em;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px black
+}
+
+#reset {
+  background-color: rgb(243, 240, 87);
+}
